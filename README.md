@@ -1,24 +1,51 @@
 # :uk:  👋 Hello, I am Leila 
 
-  :books: I am a student appeased by web development and design. 
+  :books: I am a student appeased by web development and web design. 
 
  :woman_technologist: In January 2022 I started remotely the university technician bachelor in programming at the National Technological University :argentina:. It is a university career that I will finish in December 2023. 
 
- :paintbrush: I studied UX/UI designer career remotely in <Codo a Codo/> :argentina:. It was a course of the Government of Buenos Aires the City dictated by the best designers in 2022. 
+ :paintbrush: I studied UX/UI designer career remotely in < Codo a Codo / > . It was a course of the Government of Buenos Aires the City dictated by the best designers in 2022. 
 
  😄 I can communicate in theses languages: :es: Mother language , :uk: C2 , :fr: B2 
 
  🌱 I am currently looking for a job where I can grow personally and professionally in this great web world.
 
- :nerd_face: As a web developer with a background as a designer I feel comfortable with the languages and tools: 
+ :nerd_face: As a web developer with a background as a designer I feel comfortable with these languages and tools: 
+
+ Front-end : 
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="35" height="35">&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="35" height="35">&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="35" height="35">&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="Css" width="35" height="35">&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScrip" alt="JS" width="35" height="35">&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="35" height="35">&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="35" height="35">&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="35" height="35">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35">&nbsp;
 </div>
+Back-end: 
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="35" height="35">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="35" height="35">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="35" height="35">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="35" height="35">&nbsp;
+</div>
+Database: 
+<div align="center">
+ 
+</div>
+Agile: 
+<div align="center">
+ 
+</div>
+Control version:
+<div align="center">
+ 
+</div>
+IDE:
+<div align="center">
+ 
+</div>
+Design UX/UI:
 <div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35">&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Ilustrator" alt="Ilustrator" width="35" height="35">&nbsp;
