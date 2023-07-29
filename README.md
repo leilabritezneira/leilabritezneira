@@ -1,4 +1,10 @@
-# :uk:  👋 Hello, I am Leila 
+<div align="end">
+	:uk: :es: :fr:  
+</div>
+
+<hr>
+
+# 👋 Hello, I am Leila 
 
 :woman_technologist: I currently work as a full stack developer.
 
@@ -99,7 +105,7 @@
  <h3 align = 'end'> :earth_americas: I live in France but the time zone is not a problem for me ✨ </h3> <br>
 <hr> 
 
-# :es:  👋 Hola, soy Leila 
+# 👋 Hola, soy Leila 
 
 :woman_technologist: Actualmente trabajo como desarrolladora full stack.
 
@@ -200,7 +206,7 @@
  <h3 align = 'end'> :earth_americas: Vivo en Francia pero la zona horaria no es un problema para mí✨ </h3> <br>
 <hr> 
 
- # :fr:  👋 Bonjour, je suis Leila 
+ # 👋 Bonjour, je suis Leila 
 
 :woman_technologist: Je travaille actuellement en tant que développeur full stack. 
 
