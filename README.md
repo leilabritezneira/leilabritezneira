@@ -97,7 +97,8 @@
  <h4><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="in" alt="in" width="25" height="25">  https://www.linkedin.com/in/leila-britez-neira/ </h4><br> 
 
  <h3 align = 'end'> :earth_americas: I live in France but the time zone is not a problem for me ✨ </h3> <br>
- 
+<hr> 
+
 # :es:  👋 Hola, soy Leila 
 
 :woman_technologist: Actualmente trabajo como desarrolladora full stack.
@@ -197,6 +198,7 @@
  <h4><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="in" alt="in" width="25" height="25">  https://www.linkedin.com/in/leila-britez-neira/ </h4><br> 
 
  <h3 align = 'end'> :earth_americas: Vivo en Francia pero la zona horaria no es un problema para mí✨ </h3> <br>
+<hr> 
 
  # :fr:  👋 Bonjour, je suis Leila 
 
