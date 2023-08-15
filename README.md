@@ -1,5 +1,5 @@
-<div align="end">
-	:uk: :es: :fr:  
+<div align="end" >
+	<h3> :uk: :es: :fr:  </h3>	
 </div>
 
 <hr>
@@ -58,8 +58,8 @@
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
  <dt> Agile :</dt>
- <dd><dl><dd><dl><dd><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" title="Trello" alt="Trello" width="60" height="25">&nbsp; 
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="35" height="35">&nbsp; 
+ <dd><dl><dd><dl><dd><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" title="Trello" alt="Trello" width="60" height="20">&nbsp; 
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="30" height="30">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="35" height="35">&nbsp;
  </dd></dd></dl></dd></dl></dd>
 </dd></dl></dd></dl></dd></dl></dd></dl>
@@ -90,7 +90,6 @@
  <dt> Design UX/UI :</dt>
  <dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Ilustrator" alt="Ilustrator" width="35" height="35">&nbsp; 
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="35" height="35">&nbsp;
 	 <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" title="Whimsical" alt="Whimsical" width="35" height="35">&nbsp;
 	 <img src="https://rosenfeldmedia.com/enterprise2020/wp-content/uploads/sites/4/2020/08/Optimal-Workshop-logo.png" title="Photoshop" alt="Photoshop" width="60" height="35">&nbsp;
@@ -159,8 +158,8 @@
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
  <dt> Agile :</dt>
- <dd><dl><dd><dl><dd><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" title="Trello" alt="Trello" width="60" height="25">&nbsp; 
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="35" height="35">&nbsp; 
+ <dd><dl><dd><dl><dd><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" title="Trello" alt="Trello" width="60" height="20">&nbsp; 
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="30" height="30">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="35" height="35">&nbsp;
  </dd></dd></dl></dd></dl></dd>
 </dd></dl></dd></dl></dd></dl></dd></dl>
@@ -191,7 +190,6 @@
  <dt> Design UX/UI :</dt>
  <dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Ilustrator" alt="Ilustrator" width="35" height="35">&nbsp; 
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="35" height="35">&nbsp;
 	 <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" title="Whimsical" alt="Whimsical" width="35" height="35">&nbsp;
 	 <img src="https://rosenfeldmedia.com/enterprise2020/wp-content/uploads/sites/4/2020/08/Optimal-Workshop-logo.png" title="Photoshop" alt="Photoshop" width="60" height="35">&nbsp;
@@ -260,8 +258,8 @@
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
  <dt> Agile :</dt>
- <dd><dl><dd><dl><dd><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" title="Trello" alt="Trello" width="60" height="25">&nbsp; 
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="35" height="35">&nbsp; 
+ <dd><dl><dd><dl><dd><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" title="Trello" alt="Trello" width="60" height="20">&nbsp; 
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="30" height="30">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="35" height="35">&nbsp;
  </dd></dd></dl></dd></dl></dd>
 </dd></dl></dd></dl></dd></dl></dd></dl>
@@ -292,7 +290,6 @@
  <dt> Design UX/UI :</dt>
  <dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Ilustrator" alt="Ilustrator" width="35" height="35">&nbsp; 
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="35" height="35">&nbsp;
 	 <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" title="Whimsical" alt="Whimsical" width="35" height="35">&nbsp;
 	 <img src="https://rosenfeldmedia.com/enterprise2020/wp-content/uploads/sites/4/2020/08/Optimal-Workshop-logo.png" title="Photoshop" alt="Photoshop" width="60" height="35">&nbsp;
