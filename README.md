@@ -6,7 +6,7 @@
 
 # 👋 Hello, I am Leila 
 
-:woman_technologist: I currently work as a Full Stack Developer.
+:woman_technologist: I currently work as a Full Stack Developer since October 2022.
 
 :books: I am a student appeased by web development and web design. 
 
