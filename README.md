@@ -12,7 +12,7 @@
 
 :blue_book: From June 2023 to October 2023 I studied a specialisation in development with WordPress.
 
- 📖 In January 2022 I started remotely the university technician bachelor in programming at the National Technological University :argentina:. It is a university career that I will finish in December 2023. 
+ 📖 In January 2022 I started remotely the University Technician Bachelor in Programming at the National Technological University (UTN), specifically in the Regional Faculty of San Rafael (UTN-FRSR):argentina:. It is a university career that I will finish in December 2023. 
 
  :paintbrush: During 2022, I studied UX/UI designer career remotely in < Codo a Codo / > . It was a course of the Government of Buenos Aires the City dictated by the best designers. 
 
