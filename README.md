@@ -12,15 +12,17 @@
 
 :blue_book: From June 2023 to October 2023 I studied a specialisation in development with WordPress.
 
- 📖 In January 2022 I started remotely the University Technician Bachelor in Programming at the National Technological University (UTN), specifically in the Regional Faculty of San Rafael (UTN-FRSR):argentina:. It is a university career that I will finish in December 2023. 
+🕐 In October 2022 I started remotely the application designer and developer career at O'Clock School, a French school that offers high-level web development courses 🇫🇷 . I will finich this carrer in Abril 2024.
+
+ 📖 In January 2022 I started remotely the University Technician Bachelor in Programming at the National Technological University (UTN), specifically in the Regional Faculty of San Rafael (UTN-FRSR) 🇦🇷 . It is a university career that I finished in December 2023. 
 
  :paintbrush: During 2022, I studied UX/UI designer career remotely in < Codo a Codo / > . It was a course of the Government of Buenos Aires the City dictated by the best designers. 
 
-🗣 I can communicate in theses languages: :es: Mother language , :uk: C2 , :fr: B2 
+🗣 I can communicate in theses languages: 🇪🇸 : Mother language , 🇬🇧 : C1 , 🇫🇷 : B2 
 
  🌱 I am looking for a job where I can grow personally and professionally in this great web world.
 
- :nerd_face: As a web developer with a background as a designer I feel comfortable with these languages and tools: 
+ 🤓 As a web developer with a background as a designer I feel comfortable with these languages and tools: 
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
  <dt> CMS :</dt>
@@ -38,6 +40,7 @@
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="35" height="35">&nbsp;
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35">&nbsp;
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="35" height="35">&nbsp;
  </dd></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
