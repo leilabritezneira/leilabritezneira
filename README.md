@@ -12,7 +12,7 @@
 
 :blue_book: From June 2023 to October 2023 I studied a specialisation in development with WordPress.
 
-🕐 In October 2022 I started remotely the application designer and developer career at O'Clock School, a French school that offers high-level web development courses 🇫🇷 . I will finich this carrer in Abril 2024.
+🕐 In October 2022 I started remotely the application designer and developer career at O'Clock School, a French school that offers high-level web development courses 🇫🇷 . I will finish this carrer in Abril 2024.
 
  📖 In January 2022 I started remotely the University Technician Bachelor in Programming at the National Technological University (UTN), specifically in the Regional Faculty of San Rafael (UTN-FRSR) 🇦🇷 . It is a university career that I finished in December 2023. 
 
