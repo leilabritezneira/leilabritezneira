@@ -10,11 +10,11 @@
 
 :books: I am a student appeased by web development and web design. 
 
-:blue_book: From June 2023 to October 2023 I studied a specialisation in development with WordPress at the National Technological University (UTN), specifically in the Regional Faculty of Resistencia (UTN-FRRe) 🇦🇷 .
-
 🕐 In October 2022 I started remotely the application designer and developer career at O'Clock School, a French school that offers high-level web development courses 🇫🇷 . I will finish this carrer in Abril 2024.
 
- 📖 In January 2022 I started remotely the University Technician Bachelor in Programming at the National Technological University (UTN), specifically in the Regional Faculty of San Rafael (UTN-FRSR) 🇦🇷 . It is a university career that I finished in December 2023. 
+:blue_book: From June 2023 to October 2023 I studied a specialisation in development with WordPress at the National Technological University (UTN), specifically in the Regional Faculty of Resistencia (UTN-FRRe) 🇦🇷 .
+
+ 📖 From January 2022 to December 2023 I studed remotely the University Technician Bachelor in Programming at the National Technological University (UTN), specifically in the Regional Faculty of San Rafael (UTN-FRSR) 🇦🇷 .
 
  :paintbrush: During 2022, I studied UX/UI designer career remotely in < Codo a Codo / > . It was a course of the Government of Buenos Aires the City dictated by the best designers. 
 
