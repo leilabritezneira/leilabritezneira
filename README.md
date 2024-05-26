@@ -10,11 +10,13 @@
 
 :books: I am a student appeased by web development and web design. 
 
-🕐 In October 2022 I started remotely the application designer and developer career at O'Clock School, a French school that offers high-level web development courses 🇫🇷 . I will finish this carrer in April 2024.
+📓 In April 2024 I started to study remotely the React Front-end specialisation at OpenClassrooms, a French school that offers high-level web development and design courses 🇫🇷 .
+
+🕐 From October 2022 to April 2024 I studied remotely the application designer and developer licence at O'Clock School, a French school that offers high-level web development courses 🇫🇷 .
 
 :blue_book: From June 2023 to October 2023 I studied a specialisation in development with WordPress at the National Technological University (UTN), specifically in the Regional Faculty of Resistencia (UTN-FRRe) 🇦🇷 .
 
- 📖 From January 2022 to December 2023 I studed remotely the University Technician Bachelor in Programming at the National Technological University (UTN), specifically in the Regional Faculty of San Rafael (UTN-FRSR) 🇦🇷 .
+ 📖 From January 2022 to December 2023 I studied remotely the University Technician Bachelor in Programming at the National Technological University (UTN), specifically in the Regional Faculty of San Rafael (UTN-FRSR) 🇦🇷 .
 
  :paintbrush: During 2022, I studied UX/UI designer career remotely in < Codo a Codo / > . It was a course of the Government of Buenos Aires the City dictated by the best designers. 
 
@@ -42,6 +44,7 @@
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScrip" alt="TypeSricpt" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="35" height="35">&nbsp;
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35">&nbsp;
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35">&nbsp;
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="35" height="35">&nbsp;
  </dd></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
@@ -50,7 +53,6 @@
 <dl><dd><dl><dd><dl><dd><dl><dd>
  <dt> Back-end :</dt>
  <dd><dl><dd><dl><dd><dl><dd><dl><dd>
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35">&nbsp; 
