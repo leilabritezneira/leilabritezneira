@@ -66,6 +66,7 @@
  <dd><dl><dd><dl><dd><dl><dd><dl><dd>
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="35" height="35">&nbsp; 
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50">&nbsp;
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="70" height="50">&nbsp;
  </dd></dd></dl></dd></dl></dd></dl></dd></dl></dd>
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
